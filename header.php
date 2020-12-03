@@ -1,6 +1,6 @@
 
 <!doctype html>
-
+<?php date_default_timezone_set('America/sao_paulo'); ?>
 <html class="no-js" lang="en">
     <head>
         <meta charset="utf-8" />
